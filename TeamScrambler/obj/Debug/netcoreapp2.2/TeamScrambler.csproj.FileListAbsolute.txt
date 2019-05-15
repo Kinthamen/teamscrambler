@@ -1,0 +1,11 @@
+/Users/kinthamen/Projects/TeamScrambler/TeamScrambler/bin/Debug/netcoreapp2.2/TeamScrambler.deps.json
+/Users/kinthamen/Projects/TeamScrambler/TeamScrambler/bin/Debug/netcoreapp2.2/TeamScrambler.runtimeconfig.json
+/Users/kinthamen/Projects/TeamScrambler/TeamScrambler/bin/Debug/netcoreapp2.2/TeamScrambler.runtimeconfig.dev.json
+/Users/kinthamen/Projects/TeamScrambler/TeamScrambler/bin/Debug/netcoreapp2.2/TeamScrambler.dll
+/Users/kinthamen/Projects/TeamScrambler/TeamScrambler/bin/Debug/netcoreapp2.2/TeamScrambler.pdb
+/Users/kinthamen/Projects/TeamScrambler/TeamScrambler/obj/Debug/netcoreapp2.2/TeamScrambler.csprojAssemblyReference.cache
+/Users/kinthamen/Projects/TeamScrambler/TeamScrambler/obj/Debug/netcoreapp2.2/TeamScrambler.csproj.CoreCompileInputs.cache
+/Users/kinthamen/Projects/TeamScrambler/TeamScrambler/obj/Debug/netcoreapp2.2/TeamScrambler.AssemblyInfoInputs.cache
+/Users/kinthamen/Projects/TeamScrambler/TeamScrambler/obj/Debug/netcoreapp2.2/TeamScrambler.AssemblyInfo.cs
+/Users/kinthamen/Projects/TeamScrambler/TeamScrambler/obj/Debug/netcoreapp2.2/TeamScrambler.dll
+/Users/kinthamen/Projects/TeamScrambler/TeamScrambler/obj/Debug/netcoreapp2.2/TeamScrambler.pdb
